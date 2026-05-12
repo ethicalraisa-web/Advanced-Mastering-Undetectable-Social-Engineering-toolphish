@@ -1,2 +1,7 @@
 # Advanced-Mastering-Undetectable-Social-Engineering-toolphish
 Phishing is a basic Social Engineering attack where a Hacker creates same to same copy HTML made Website login page and then phish credintials login info from the targeted victim.🔗 But, Smart mastering professional Phishing is way more dangerous ⚡ and few steps forward from simple normal phishing. It directly exploits human mind🧠💥(Phsycological)
+Nowadays, most people are aware of phishing and stay cautious about it. If an unknown person sends a message, link, image, or any suspicious content, users usually avoid clicking or opening it. However, advanced smart undetectable phishing operates in a far more realistic and sophisticated way ☠️.
+
+In this method, the attacker does not directly message the victim from a random account or ordinary email. Instead, the attacker first disguises themselves as a legitimate, authorized organization or an official company. This may involve using professional-looking business emails, verified-style phone numbers, branded profiles, or carefully designed identities. In other words, the attacker creates a trusted authority image 📛 and builds a convincing brand identity 🪪 to appear authentic and credible.
+
+After establishing this fake but realistic professional presence, the attacker sends emails or messages containing links to the victim. When the victim checks the message, it appears to come from an official authorized company, making the communication look trustworthy and legitimate.
