@@ -162,3 +162,9 @@ transporter.sendMail(mailOptions, (error, info) => {
     console.log("Email sent successfully:", info.response);
   }
 });
+
+
+
+
+⚠️ 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫 𝐖𝐚𝐫𝐧𝐢𝐧𝐠 ⚠️
+This project is built for strictly educational learning purposes only ! It shows how a real world attacker or real advance hacker can phish victim's Credintials info with Advance Mastering Social Engineering tricks and Phsycologically hits 🎯 human mind with brand impersonating 📨 mail 📥
